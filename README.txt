@@ -1,2 +1,2 @@
-代码正在整理中，后期将公布代码与数据集
-The code is being collated, and the code and HUNNU-ReID8000 will be published later
+Data set access in the following link: https://pan.baidu.com/s/16qiHsxs3IDheb-WRC6cGww
+The password is 1314
